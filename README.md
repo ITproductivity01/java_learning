@@ -1,2 +1,2 @@
 # java_learning
-Обучение java backend с нуля
+Учу java backend с нуля
